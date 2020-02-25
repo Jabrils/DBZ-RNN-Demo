@@ -65,12 +65,17 @@ public class newboy : MonoBehaviour {
 	void Update () {
         UpdateUI();
 
-		if(Input.GetKeyDown(KeyCode.Backspace))
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+
+            if (Input.GetKeyDown(KeyCode.Backspace))
         {
             Application.LoadLevel(Application.loadedLevel);
         }
 
-        if (Input.GetKeyDown(KeyCode.B))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             if (Input.GetKey(KeyCode.LeftShift))
             {
@@ -203,7 +208,7 @@ public class newboy : MonoBehaviour {
 
     private static Sprite InputToSprite(float[,] mat)
     {
-        Sprite spr = new Sprite();
+        Sprite spr = null;
 
         if (mat[1, 0] == 1)
         {

@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/29_2.unity
+- path: Assets/newbou.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
