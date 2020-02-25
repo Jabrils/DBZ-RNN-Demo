@@ -1,0 +1,35 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   NVIDIA
+    VRAM:     11127 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\System.dll (this message is harmless)
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.489 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.730595 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 1b90 -> priority: 1 
+  Thread -> id: 3160 -> priority: 1 
+  Thread -> id: b70 -> priority: 1 
+  Thread -> id: 1a70 -> priority: 1 
+  Thread -> id: 2d8c -> priority: 1 
+  Thread -> id: 4a54 -> priority: 1 
