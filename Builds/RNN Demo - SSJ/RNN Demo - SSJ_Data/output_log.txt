@@ -1,0 +1,35 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Ti (ID=0x1e07)
+    Vendor:   NVIDIA
+    VRAM:     11049 MB
+    Driver:   26.21.14.4166
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\System.dll (this message is harmless)
+Platform assembly: G:\Unity\RNN Demo\Builds\RNN Demo - SSJ\RNN Demo - SSJ_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.025 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.057000 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 2630 -> priority: 1 
+  Thread -> id: 26e4 -> priority: 1 
+  Thread -> id: 8930 -> priority: 1 
+  Thread -> id: 74cc -> priority: 1 
+  Thread -> id: 8718 -> priority: 1 
+  Thread -> id: 1c98 -> priority: 1 
